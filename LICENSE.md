@@ -1,4 +1,4 @@
-# 
+# Official Cline presets. Featuring community-support and version-control — optimized for maximum performance and efficiency.
 
 
 
